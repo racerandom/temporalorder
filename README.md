@@ -5,7 +5,7 @@ Temporal order (TORDER) is a new proposal of encoding temporal information in ne
 * TODER can produce more flexible relation types based on you definition.
 * label distribution is more balanced.
 
-More detailed information, please refer to the paper "Inducing Temporal Relations from Time Anchor Annotation" in NAACL-HLT 2018
+More detailed information, please refer to the paper "Inducing Temporal Relations from Time Anchor Annotation"(http://www.aclweb.org/anthology/N18-1166) in NAACL-HLT 2018
 
 We released the temporal order relations of the exact same mention pairs in Timebank-Dense corpus, which are the complete graph of relations in adjacent sentences. Theoretically, based on our method, you can generate any relations with longer sentence distance in a text by yourself.
 
